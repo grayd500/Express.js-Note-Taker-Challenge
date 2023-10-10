@@ -1,6 +1,6 @@
 # Express.js Note Taker
 
-![App Screenshot](Develop/public/assets/images/mvp.png)
+![App Screenshot](./Develop/public/assets/images/mvp.png)
 
 ## Description
 
