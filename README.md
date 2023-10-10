@@ -38,13 +38,13 @@ To use the Express.js Note Taker:
 ## Credits
 
 This project was initiated with starter code provided by the UTA Coding Bootcamp. 
-- Main development and backend functionality by GrayD500 (https://github.com/grayd500/express.js-challenge-note-taker-challenge).
+- Main development and backend functionality by [GrayD500](https://github.com/grayd500/).
 - Special thanks to **CHATGPT4** for guidance on server.js commenting and README.md formatting.
 
 ## License
 
-This project is licensed under the MIT License. Refer to [LICENSE](LINK_TO_YOUR_LICENSE_FILE_IF_YOU_HAVE_ONE) for more information.
+This project is licensed under the [MIT LICENSE](https://github.com/grayd500/express.js-challenge-note-taker-challenge/blob/main/LICENSE).
 
 ---
-
-[GitHub repo](https://github.com/grayd500/express.js-challenge-note-taker-challenge)
+## Github Repo
+[Note Taker Challenge](https://github.com/grayd500/express.js-challenge-note-taker-challenge)
